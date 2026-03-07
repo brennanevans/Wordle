@@ -1,5 +1,4 @@
-import pygame,urllib3,json,math,time
-from urllib.error import HTTPError
+import pygame,urllib3,math,time
 
 pygame.init()
 pygame.font.init()
