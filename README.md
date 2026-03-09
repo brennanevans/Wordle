@@ -9,4 +9,4 @@ The game can be customised with a range of:
 - Number of available guesses
 - Size of screen (to increase ease of use on different device types)
 
-Full game can be run by another file by importing it and calling the main method.
+Full game can be run by another file by importing it and calling the main method or executed from command line (however, this will use defaults for customisable options)
