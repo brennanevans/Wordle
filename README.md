@@ -1,7 +1,11 @@
-# GameLibrary
+# Wordle
 
-This repository is a place to store games I have developed in the past and have recently refactored, improved and documented.
+My own implementation of the NYT game wordle.
 
-# Contains:
-- GameLauncher.py (Will be a program which can be used to select and launch any of the games which are part of this repository)
-- Wordle.py
+## Customisability
+The game can be customized with a range of:
+- Possible word lengths
+- Word difficulties (based on how common the word is in the English Language)
+- Number of available guesses
+
+Full game can be run by another file by importing it and calling the main method.
