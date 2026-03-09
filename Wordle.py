@@ -595,8 +595,3 @@ def main(rowAmount=6,columnAmount=5,wordDifficulty=3,
 
 if __name__ == "__main__":
     main()
-
-# Commit to repository - gameLibrary
-
-# Figure out if you can move Wordle.py into a Games folder so launcher and games are seperate
-# and Contains section of README can just say Games - all my created games which can be launched
